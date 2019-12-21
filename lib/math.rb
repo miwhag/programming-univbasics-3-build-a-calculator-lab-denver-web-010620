@@ -29,10 +29,11 @@ end
 
 def square_root (num)
   puts num.Math.sqrt(num)
-  return
+  return num.Math.sqrt(num)
 
 addition(1,2)
 subtraction(3,2)
 division(9,3)
 multiplication(4,2)
 modulo(9,4)
+square_root(3)
