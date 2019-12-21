@@ -23,9 +23,9 @@ puts num1 % num2
 end
 
 
-# def square_root(num)
-# puts Math.sqrt(num)
-# end
+def square_root(num)
+puts Math.sqrt(num)
+end
 
 
 addition(1,2)
