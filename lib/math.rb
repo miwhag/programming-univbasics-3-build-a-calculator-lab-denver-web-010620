@@ -30,6 +30,7 @@ end
 def square_root (num)
   puts num.Math.sqrt(num)
   return num.Math.sqrt(num)
+end
 
 addition(1,2)
 subtraction(3,2)
