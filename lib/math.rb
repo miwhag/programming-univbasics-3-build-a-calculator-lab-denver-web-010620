@@ -27,7 +27,9 @@ puts num1 % num2
 return num1 % num2
 end
 
-
+def square_root (num)
+  puts num.Math.sqrt(num)
+  return
 
 addition(1,2)
 subtraction(3,2)
